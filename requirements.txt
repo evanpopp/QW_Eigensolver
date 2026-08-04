@@ -1,0 +1,3 @@
+qmsolve
+numpy
+matplotlib.pyplot
