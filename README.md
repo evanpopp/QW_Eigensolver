@@ -3,7 +3,16 @@
 ---
 
 ## Description
-This project contains a Python-based 1D Schrödinger equation solver for simulating quantum well heterostructures. Utilizing the `qmsolve` library alongside custom modules, the script calculates and visualizes the energy eigenstates and spatial potential of a user-defined single quantum well. It currently features built-in profiles for **hBN/MoS2** and **hBN/InSe** material systems. Feel free to modify and/or create your own profiles for whatever application. 
+This project contains a Python-based 1D Schrödinger equation solver for simulating quantum well heterostructures. Utilizing the `qmsolve` library alongside custom modules, the script calculates and visualizes the energy eigenstates and spatial potential of a user-defined single quantum well. It currently features built-in profiles for **hBN/MoS2** and **hBN/InSe** material systems. Feel free to modify and/or create your own profiles for whatever application.
+
+---
+
+## Gallery
+Here are some pictures of the outputs:
+
+### Eigen Energy and Quantum Well under a 2eV Bias
+![Eigen View](Media/eigenenergy_example.png)
+![QW View](Media/qw_example.png)
 
 ---
 
