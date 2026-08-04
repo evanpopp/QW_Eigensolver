@@ -7,6 +7,15 @@ This project contains a Python-based 1D Schrödinger equation solver for simulat
 
 ---
 
+## Gallery
+Here are some pictures of the outputs:
+
+### Eigen Energy and Quantum Well under a 2eV Bias
+![Eigen View](Media/eigenenergy_example.png)
+![QW View](Media/qw_example.png)
+
+---
+
 ## Features
 
 * **Bias Effects:** Includes the effects of an applied bias on both the wavefunction of the electron and the quantum well barriers. Barriers and the wavefunction bend with the application of a bias.
