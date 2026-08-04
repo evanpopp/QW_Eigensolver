@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-import Constants as const
+from my_libs import Constants as const
 
 q = const.q
 me = const.me
