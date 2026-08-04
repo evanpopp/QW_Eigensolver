@@ -14,7 +14,7 @@ def Pot(U, thickness, slope, Res):
     # Slope (V/nm)
     pix = round(thickness * Res)
     if (slope == 0):
-    	result = np.full(pix, U)
+        result = np.full(pix, U)
     else:
         result = []
         for i in range(pix):
